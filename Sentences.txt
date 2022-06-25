@@ -1,0 +1,14 @@
+Sentence_Happy_Past
+1
+4 .I Word_Verb_Feel_Past Word_Noun_Emotion_Happy .stop
+==blank==
+Sentence_Intro_Weather_Past
+3
+6 .It .was .a Word_Adj_Weather_Bright Word_Noun_Weather_Bright .stop
+6 .It .was .a Word_Adj_Weather_Stormy Word_Noun_Weather_Stormy .stop
+6 .It .was .a Word_Adj_Weather_Cool Word_Noun_Weather_Cool .stop
+==blank==
+Sentence_Pooping_Present
+2
+8 .I Word_Misc_Cannot_Present Word_Verb_Halt_Present .the Word_Adj_Torrent .of Word_Noun_Poop .stop
+6 .I .am Word_Verb_Poop_Present Word_Noun_Poop Word_Adj_Poop .stop

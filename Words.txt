@@ -1,0 +1,105 @@
+Word_Adj_Poop
+6
+that stunk like rotten eggs
+that was runny like milk
+that was sticky like chocolate
+the colour and consistency of peanut butter
+the size of watermelons
+which were an amalgamation of hard and runny
+==blank==
+Word_Adj_Torrent
+4
+avalanche
+landslide
+torrent
+tsunami
+==blank==
+Word_Adj_Weather_Bright
+4
+bright
+bright and sunny
+radiant
+sunny
+==blank==
+Word_Adj_Weather_Cool
+5
+breezy
+cool
+cool and breezy
+cool and windy
+windy
+==blank==
+Word_Adj_Weather_Stormy
+5
+dark
+dark and gloomy
+dark and stormy
+gloomy
+stormy
+==blank==
+Word_Misc_Cannot_Past
+1
+couldn't
+==blank==
+Word_Misc_Cannot_Present
+2
+cannot
+can't
+==blank==
+Word_Noun_Emotion_Happy
+3
+elated
+happy
+overjoyed
+==blank==
+Word_Noun_Poop
+7
+excreta
+faeces
+human excreta
+human waste
+poo
+poop
+solid repulsiveness
+==blank==
+Word_Noun_Weather_Bright
+6
+afternoon
+Monday morning
+Monday afternoon
+Tuesday morning
+Tuesday afternoon
+morning
+==blank==
+Word_Noun_Weather_Cool
+5
+evening
+Friday evening
+Friday night
+night
+Sunday evening
+Sunday night
+==blank==
+Word_Noun_Weather_Stormy
+6
+afternoon
+morning
+noon
+Wednesday afternoon
+Wednesday morning
+Wednesday noon
+==blank==
+Word_Verb_Feel_Past
+1
+felt
+==blank==
+Word_Verb_Halt_Present
+3
+cease
+halt
+stop
+==blank==
+Word_Verb_Poop_Present
+2
+excretating out
+pooping out
